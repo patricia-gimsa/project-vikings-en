@@ -35,7 +35,7 @@ class Saxon(Soldier):
     def receiveDamage(self, damage):
         # your code here
 
-# Davicente
+# WAAAAAAAAAGH
 
 class War():
     def __init__(self):
